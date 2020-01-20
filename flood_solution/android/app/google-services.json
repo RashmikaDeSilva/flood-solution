@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "325232742726",
+    "firebase_url": "https://flood-solution.firebaseio.com",
+    "project_id": "flood-solution",
+    "storage_bucket": "flood-solution.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:325232742726:android:100919eba48e3705",
+        "android_client_info": {
+          "package_name": "com.floodsolutionreachout.flood_solution"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "325232742726-n70om74purgft7fgt29bqj4v8mrd23g7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.floodsolutionreachout.flood_solution",
+            "certificate_hash": "a42ac8d39d596ba35bb9ee64368fb414f64b5ea4"
+          }
+        },
+        {
+          "client_id": "325232742726-tb868stirmt0gqbu6manqpjo0qr0am5g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3pkDHsp3r6kznF94uH30wzi4xMik7f7U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "325232742726-tb868stirmt0gqbu6manqpjo0qr0am5g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

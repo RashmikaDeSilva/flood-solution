@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "652682284034",
+    "firebase_url": "https://saferonew.firebaseio.com",
+    "project_id": "saferonew",
+    "storage_bucket": "saferonew.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:652682284034:android:cc293c78050105839fab1b",
+        "android_client_info": {
+          "package_name": "com.example.safero.reachout"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "652682284034-0b369ruqcd3635bqf5ivh7hipjp1qdmg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.safero.reachout",
+            "certificate_hash": "a42ac8d39d596ba35bb9ee64368fb414f64b5ea4"
+          }
+        },
+        {
+          "client_id": "652682284034-r12okd97bgaqp3014vive2tsobukmmi1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6dC_LjUfYlpj4yYwdhiY0kQbX3nlRIw0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "652682284034-r12okd97bgaqp3014vive2tsobukmmi1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
